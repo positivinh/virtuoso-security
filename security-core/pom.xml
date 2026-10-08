@@ -33,7 +33,7 @@
                                 <annotationProcessorPath>
                                     <groupId>org.springframework.boot</groupId>
                                     <artifactId>spring-boot-autoconfigure-processor</artifactId>
-                                    <version>4.1.0</version>
+                                    <version>${spring-boot.version}</version>
                                 </annotationProcessorPath>
                             </annotationProcessorPaths>
                         </configuration>
